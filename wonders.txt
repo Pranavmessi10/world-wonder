@@ -2,3 +2,8 @@ name : tajmahal
 
 location : delhi
 
+
+
+nmae : great wall of china 
+
+location : china
